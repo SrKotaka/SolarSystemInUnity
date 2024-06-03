@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 83
+  controlID: 21709
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 50
+  controlID: 21675
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,8 +170,8 @@ MonoBehaviour:
     y: 0
     width: 358
     height: 516
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -230,14 +230,14 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/u22155/Documents/SolarSystemInUnity-main/22155_22140_SolarSystem
+  m_LastProjectPath: /Users/u22129/Documents/GitHub/SolarSystemInUnity/SolarSystemInUnity_22129
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: a26b0000
     m_LastClickedID: 27554
-    m_ExpandedIDs: 000000006e5b0000705b0000725b0000745b0000765b0000
+    m_ExpandedIDs: 289dffffffffffff000000006e5b0000705b0000725b0000745b0000765b0000a45b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -262,10 +262,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 784.708}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000006e5b0000705b0000725b0000745b0000765b0000
+    m_ExpandedIDs: 289dffffffffffff000000006e5b0000705b0000725b0000745b0000765b0000a45b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffff
+      m_ExpandedIDs: eedafffff8daffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -820,9 +820,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 32.387234, y: 7.6056147, z: 71.46267}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 32.387234, y: 7.6056147, z: 71.46267}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -868,20 +868,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: 0.13005301, y: -0.5588008, z: 0.08926167, w: 0.81417274}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: 0.13005191, y: -0.5587961, z: 0.08926092, w: 0.81416583}
   m_Size:
-    m_Target: 107.638054
+    m_Target: 48.236637
     speed: 2
-    m_Value: 107.638054
+    m_Value: 48.236637
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.6070127
+    m_SpeedNormalized: 0.30315793
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -988,8 +988,8 @@ MonoBehaviour:
     y: 0
     width: 353
     height: 892
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
